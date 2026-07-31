@@ -27,7 +27,6 @@ Full detail, numbers, and the resulting recommendations are in the Insights & Re
 
 - **SQL (Databricks / Spark SQL)** — data cleaning and transformation
 - **Microsoft Excel** — formula-driven analysis, pivot tables, and charts
-- **Power BI** — interactive dashboard with DAX measures
 - **Google Looker Studio** — cloud-hosted interactive dashboard
 - **Databricks** — dashboard built directly on the cleaned Spark tables
 - **Lovable** — custom-built web application dashboard
@@ -52,7 +51,6 @@ BrightTV_Case_Study/
 │   └── BrightTV_Dashboard.xlsx
 └── 04_Project_Presentation/
     ├── BrightTV_Presentation.pptx
-    ├── PowerBI_Build_Guide.md
     ├── LookerStudio_Build_Guide.md
     ├── Databricks_Dashboard_Guide.md
     └── Lovable_Dashboard_Link.md
