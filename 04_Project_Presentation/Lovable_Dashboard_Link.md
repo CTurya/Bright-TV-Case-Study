@@ -1,7 +1,6 @@
 # BrightTV Smart Web Dashboard (Lovable)
 
-- **Live preview:** https://id-preview--506816e0-0198-43ad-982c-208e978e833f.lovable.app
-- **Editor:** https://lovable.dev/projects/506816e0-0198-43ad-982c-208e978e833f
+- **Live preview:** https://brighttv-insight-deck.lovable.app
 
 Built with React + Recharts, seeded from the same verified aggregates as the Excel, Power BI, and Looker Studio versions. Five pages: Overview, Channel Performance, Viewer Behaviour, Audience Segments, and Insights & Recommendations.
 
